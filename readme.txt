@@ -1,3 +1,4 @@
 Welcome to my Project!!!
 
-Author: adb 
+Author: User Me
+Twitter: @Me
